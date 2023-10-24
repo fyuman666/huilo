@@ -1,6 +1,5 @@
-import telebot
+from telegram import Bot
 import pickle
-from telebot import types
 import random
 
 bot_token = '6958037674:AAFdhcmiNzerOSI_xhaokhy64sbLXSOLiYs'
